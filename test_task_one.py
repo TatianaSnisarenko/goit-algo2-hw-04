@@ -1,5 +1,5 @@
 import unittest
-from homework import Homework
+from task_one import Homework
 
 
 class TestHomework(unittest.TestCase):
